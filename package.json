@@ -1,7 +1,7 @@
 {
-  "author": "importre & BrickSimple",
+  "author": "Jack Hao <north0808@qq.com>",
   "dependencies": {},
-  "description": "Chrome ADB (Android Debug Bridge) Client",
+  "description": "Pax ADB (Android Debug Bridge) Client",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-clean": "~0.5.0",
@@ -21,9 +21,9 @@
     "type": "git",
     "url": "https://github.com/importre/chromeadb"
   },
-  "name": "ChromeADB",
+  "name": "Pax ADB",
   "scripts": {
     "test": "grunt test"
   },
-  "version": "0.4.2"
+  "version": "0.4.3"
 }
