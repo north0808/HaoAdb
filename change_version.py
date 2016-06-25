@@ -10,7 +10,7 @@ import sys
 json_files = ('package.json', 'bower.json', 'src/manifest.json',)
 
 def get_argparser():
-    parser = argparse.ArgumentParser(description='Modify ChromeADB version.')
+    parser = argparse.ArgumentParser(description='Modify HaoADB version.')
     parser.add_argument('-n', help='new version. ex) 1.0.0')
     return parser
 

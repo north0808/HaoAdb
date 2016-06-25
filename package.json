@@ -1,29 +1,29 @@
 {
-  "author": "Jack Hao <north0808@qq.com>",
-  "dependencies": {},
-  "description": "Pax ADB (Android Debug Bridge) Client",
-  "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-compress": "~0.5.2",
-    "grunt-contrib-copy": "~0.4.1",
-    "load-grunt-tasks": "~0.2.0",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-contrib-connect": "^0.7.1",
-    "time-grunt": "^0.3.2",
-    "grunt-contrib-jshint": "^0.10.0",
-    "karma": "^0.12.16",
-    "karma-jasmine": "^0.1.5",
-    "grunt-karma": "^0.8.3",
-    "karma-phantomjs-launcher": "^0.1.4"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/north0808/chromeadb"
-  },
-  "name": "Pax ADB",
-  "scripts": {
-    "test": "grunt test"
-  },
-  "version": "0.4.3"
+    "author": "Jack Hao <north0808@qq.com>",
+    "dependencies": {},
+    "description": "Pax ADB (Android Debug Bridge) Client By Grunt",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-clean": "~0.5.0",
+        "grunt-contrib-compress": "~0.5.2",
+        "grunt-contrib-connect": "^0.7.1",
+        "grunt-contrib-copy": "~0.4.1",
+        "grunt-contrib-jshint": "^0.10.0",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-karma": "^0.8.3",
+        "karma": "^0.12.16",
+        "karma-jasmine": "^0.1.5",
+        "karma-phantomjs-launcher": "^0.1.4",
+        "load-grunt-tasks": "~0.2.0",
+        "time-grunt": "^0.3.2"
+    },
+    "name": "HaoADB",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/north0808/HaoAdb"
+    },
+    "scripts": {
+        "test": "grunt test"
+    },
+    "version": "0.4.3"
 }
