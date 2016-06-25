@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/importre/chromeadb"
+    "url": "https://github.com/north0808/chromeadb"
   },
   "name": "Pax ADB",
   "scripts": {
